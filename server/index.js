@@ -23,8 +23,7 @@ const corsOptions = {
     const allowedOrigins = [
       "http://localhost:5173",
       "http://localhost:3000",
-      "https://thapatechnical.site",
-      "https://www.thapatechnical.site",
+      "https://reliable-begonia-ccd2eb.netlify.app"
     ];
     const isAllowed = allowedOrigins.includes(origin);
     callback(null, isAllowed ? origin : false);

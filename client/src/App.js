@@ -1,4 +1,4 @@
-import AOS from "aos";
+
 import { Route, Routes, useLocation } from "react-router-dom";
 import HomePage from "./Pages/HomePage";
 import About from "./Pages/About";

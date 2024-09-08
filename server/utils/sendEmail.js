@@ -17,7 +17,7 @@ const sendEmail = async (data) => {
     from: process.env.SMPT_EMAIL,
     to: process.env.SMPT_MAIL,
     subject: data.subject,
-    text: `${data.email}, ${data.message}`
+    text: `${data.email}, ${data.message}, ${data.name}`
   };
   
   // Send the email using the transporter

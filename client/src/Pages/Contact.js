@@ -5,6 +5,8 @@ import "react-toastify/dist/ReactToastify.css";
 import { toast } from 'react-toastify';
 import { useGlobalContext } from "../Context/Context";
 
+const API = 'https://gita2.onrender.com';
+
 const Contact = () => {
   const { isdarkMode } = useGlobalContext();
 
@@ -52,7 +54,7 @@ const Contact = () => {
     // Send form data to the backend
     try {
       const res = await axios.post(
-        'http://localhost:5000/contact/',
+        `${API}/contact/`,
         data
       );
 

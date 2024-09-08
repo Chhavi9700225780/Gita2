@@ -95,7 +95,7 @@ const Footer = () => {
             <div className="footer-bottom-line"></div>
           </div>
           <span className="flex justify-center items-center flex-wrap">
-            <span className="mb-1">@ 2021 All rights reserved |</span> <span className="mb-1">
+            <span className="mb-1">@ 2024 All rights reserved |</span> <span className="mb-1">
             Designed With 💙 By{" "}
             <a href="https://www.linkedin.com/in/chhavi-265863299/" target='_blank'  rel="noreferrer" className=" text-sm font-bold ">
               Chhavi
