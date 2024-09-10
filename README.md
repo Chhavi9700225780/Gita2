@@ -10,8 +10,8 @@ Translation and Commentary: Gain a comprehensive understanding of the verses thr
 
 Theme Toggle: Enjoy a comfortable reading experience by switching between light and dark themes.
 
-## 🚀 Website URL:
-https://bhagavad-gita-gyan.vercel.app/ 
+## 🚀 Website 
+https://gitatreasure.netlify.app
 
 ## 📌 Tech Stack
 <div>
@@ -20,14 +20,14 @@ https://bhagavad-gita-gyan.vercel.app/
 <img alt="NodeJs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 <img alt="ExpressJS" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
 <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img alt="netlify" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </div>
 
 **Client:** React, TailwindCSS, React-toastify, styled-components, aos
 
 **Server:** Node, Express, MongoDB
 
-**Deployment:** Vercel
+**Deployment:** Netlify and Render
 
 ## ScreenShot
 ![image](https://github.com/narendercoder/BhagavadGita/assets/89627914/b8ca9951-1f6f-4a46-b6ea-03a8ab715d43)
@@ -39,4 +39,4 @@ Feel free to explore the application and share this knowledge-rich resource with
 
 If you want to contact me, you can reach me through below handles.
 
-&nbsp;&nbsp;<a href="www.linkedin.com/in/narendersinghbisht"><img src="https://www.felberpr.com/wp-content/uploads/linkedin-logo.png" width="30"></img></a>
+&nbsp;&nbsp;<a href="www.linkedin.com/in/chhavi-265863299"><img src="https://www.felberpr.com/wp-content/uploads/linkedin-logo.png" width="30"></img></a>
