@@ -1,4 +1,4 @@
-## Bhagavad Gita Gyan
+## Bhagavad Gita Treasure
 
 Welcome to the Bhagavad Gita Gyan web application repository! This application provides a platform for exploring the teachings, verses, translations, and commentaries of the Bhagavad Gita, a revered Hindu scripture. Users can delve into the wisdom of the Gita through its chapters and verses, gain insights from various commentaries, and toggle between light and dark themes for a comfortable reading experience.
 
